@@ -1,0 +1,2 @@
+# regexpl vendor
+# No third-party dependencies; this project uses only the Go standard library.
